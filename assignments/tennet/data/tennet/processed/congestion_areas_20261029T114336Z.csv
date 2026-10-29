@@ -1,0 +1,28 @@
+operator,area_name,generation_congestion_flag,consumption_congestion_flag,queued_generation_requests,queued_consumption_requests,queued_generation_capacity_mw,queued_consumption_capacity_mw,expected_generation_resolution_year,expected_consumption_resolution_year,event_timestamp,curtailed_mw,congestion_reason,source_object_id
+TenneT,,,,,,,,,,,,,1
+TenneT,Crayestein,0,0,,,,,,,,,,2
+TenneT,Drenthe,3,1,3,,65,,2034,,,,,3
+TenneT,Eemshaven Midden,1,3,,,,,,2033,,,,4
+TenneT,Enschede,3,3,3,,80,,2036,,,,,5
+TenneT,"Flevopolder, Utrecht en Gelderland",3,3,6,12,2141,1048,2035,2035,,,,6
+TenneT,Friesland,3,1,,,,,2033,,,,,7
+TenneT,Groningen 220/20,0,0,,,,,,,,,,8
+TenneT,Groningen 220/20,0,1,,,,,,,,,,9
+TenneT,Groningen 220/20,1,0,,,,,,,,,,10
+TenneT,Groningen Oost,0,1,,,,,,,,,,11
+TenneT,Groningen Oost,1,1,,,,,,,,,,12
+TenneT,Groningen Oost,3,1,,,319,,2035,,,,,13
+TenneT,Groningen West,3,1,,,319,,2035,,,,,14
+TenneT,Haven van Rotterdam,0,3,,3,,677,,2032,,,,15
+TenneT,Hengelo,3,1,3,,80,,2036,,,,,16
+TenneT,Limburg,3,3,9,9,1644,1665,2034,2034,,,,17
+TenneT,Maasvlakte,0,1,,,,,,,,,,18
+TenneT,Noord-Brabant,3,3,7,13,299,914,2036,2036,,,,19
+TenneT,Noord-Holland,0,3,,28,,3001,,2036,,,,20
+TenneT,Noord-Holland,3,3,4,,990,,2027,,,,,21
+TenneT,Noordelijk Zuid-Holland,0,3,,7,,715,,2034,,,,22
+TenneT,Noordoostpolder,1,0,,,,,2032,,,,,23
+TenneT,Westland,0,0,,,,,,,,,,24
+TenneT,Zeeland,0,3,,3,,340,,2035,,,,25
+TenneT,Zwolle Hessenweg,3,1,,,500,,2036,,,,,26
+TenneT,Zwolle West,3,3,,,500,,2036,,,,,27

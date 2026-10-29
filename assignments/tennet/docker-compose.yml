@@ -1,0 +1,9 @@
+
+services:
+  tennet-ingestion:
+    build: .
+    container_name: tennet-ingestion
+    environment:
+      TENNET_OUTPUT_DIR: /app/data/tennet
+    volumes:
+      - ./data/tennet:/app/data/tennet

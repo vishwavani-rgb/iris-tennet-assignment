@@ -1,0 +1,231 @@
+{
+  "source": "https://services.arcgis.com/nSZVuSZjHpEZZbRo/arcgis/rest/services/Capaciteitskaart_Tennet_afname/FeatureServer/1/query?where=1%3D1&outFields=%2A&returnGeometry=false&f=json",
+  "retrieved_at_utc": "2026-10-29T11:18:43.119451+00:00",
+  "source_record_count": 27,
+  "normalized_record_count": 27,
+  "records_with_quality_issues": 27,
+  "quality_issues": [
+    {
+      "source_object_id": 1,
+      "issues": [
+        "missing_area_name",
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 2,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 3,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 4,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 5,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 6,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 7,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 8,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 9,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 10,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 11,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 12,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 13,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 14,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 15,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 16,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 17,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 18,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 19,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 20,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 21,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 22,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 23,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 24,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 25,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 26,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    },
+    {
+      "source_object_id": 27,
+      "issues": [
+        "curtailed_mw_not_provided_by_source",
+        "event_timestamp_not_provided_by_source",
+        "congestion_reason_not_provided_by_source"
+      ]
+    }
+  ],
+  "limitations": [
+    "This is an indicative congestion-area map, not a curtailment-event feed.",
+    "The inspected source does not provide event timestamps, curtailed MW, or congestion reasons.",
+    "Retrieval time is not the event occurrence time."
+  ]
+}
